@@ -11,16 +11,26 @@ Gender
 Male	
 Female	 	 	 
  	 	 	 	 	 	 	 
-Weight:	 	 	 	 	 	 
+Weight:
+
 Height:	 	 	 	 	 	 
+
 BP Low:	 	 	 	 	 	 
+
 BP High:	 	 	 	 	 	 
+
 Pulse Rate:	 	 	 	 	 	 
+
 RBC Count:	 	 	 	 	 	 
+
 WBC Count:	 	 	 	 	 	 
+
 Platelets	: 	 	 	 	 	 
+
 HB:	 	 	 	 	 	 
+
 Uric Acid	: 	 	 	
+
 Cholesterol	: 	 	 		 
 
 # Generate Report	button should generate the report as follows:
